@@ -1,12 +1,11 @@
 # Ceci sert à faire perdre du temps aux gens
-Fortunately a description is optional
 
-Yes I am doing weird things with my life
+>Fortunately a description is optional
+>Yes I am doing weird things with my life
 
+_Vous avez toujours rêvé de faire perdre du temps aux gens ?_
 
->>> vous avez toujours rêvé de faire perdre du temps aux gens ?
-
-> Vous êtes sur la bonne page ! Bravo ♥
+Vous êtes sur la bonne page ! Bravo ♥
 
 Je pense qu'on peut dire, en effet, que vous venez d'accomplir votre rêve.
 
